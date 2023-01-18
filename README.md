@@ -1,10 +1,15 @@
 ### Hi there I'm Mutlucan
 
   -💻 Information Systems Engineering/Computer Programming
+  
   -🏫 University of Kocaeli
+  
   -👨‍💻 I know intermediate lever 'C#' and 'Java'
+  
   -🌱 I’m currently learning 'Python'
+  
   -📫 How to reach me: mtlcangokcukur@hotmail.com
+  
 
 
 <!--
