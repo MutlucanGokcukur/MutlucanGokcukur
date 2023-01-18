@@ -8,7 +8,9 @@
   
   -🌱 I’m currently learning 'Python'
   
-  -📫 How to reach me: mtlcangokcukur@hotmail.com
+  -📧 How to reach me: mtlcangokcukur@hotmail.com
+  
+  -💬 https://www.linkedin.com/in/mutlucan-g%C3%B6k%C3%A7ukur-12165021b
   
 
 
