@@ -2,7 +2,7 @@
 
   -💻 Information Systems Engineering/Computer Programming
   
-  -🏫 I continue to study at Kocaeli University.
+  -🏫 I continue to study at Kocaeli University and Istanbul University open education faculty.
   
   -👨‍💻 I know intermediate level 'C#' and 'Java'
   
