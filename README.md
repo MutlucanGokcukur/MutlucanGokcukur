@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Mutlucan
+
+  💻-Information Systems Engineering/Computer Programming
+  🏫-University of Kocaeli
+  👨‍💻-I know intermediate lever 'C#' and 'Java'
+  🌱 I’m currently learning 'Python'
+  📫 How to reach me: mtlcangokcukur@hotmail.com
+
 
 <!--
 **MutlucanGokcukur/MutlucanGokcukur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
