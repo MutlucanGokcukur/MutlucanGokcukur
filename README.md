@@ -4,7 +4,9 @@
   
   -🏫 I continue to study at Kocaeli University and Istanbul University open education faculty.
   
-  -👨‍💻 I know intermediate level 'C#' and 'Java'
+  -👨‍💻 I know intermediate level 'C#', 'Java' and 'Kotlin'
+  
+  -📲 I know the 'Kotlin' language at a level that can make an intermediate application with the Android Studio.
   
   -🌱 I’m currently learning 'Python'
   
