@@ -14,6 +14,8 @@
   
   -💬 My Linkedln account: https://www.linkedin.com/in/mutlucan-g%C3%B6k%C3%A7ukur-12165021b 
   
+  -🪪 If you want to browse my social media accounts, you can check out my 'MySocialMediaWithQRCode' project that I created with 'Python'.
+  
 
 
 <!--
