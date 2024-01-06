@@ -4,11 +4,13 @@
   
   -🏫 I continue to study at Kocaeli University and Istanbul University open education faculty.
   
-  -👨‍💻 I know intermediate level 'C#', 'Java' and 'Kotlin'
+  -👨‍💻 I know intermediate level 'C#', 'Java','Vue.js' and 'Kotlin'
+  
+  -🔭 I know advanced 'Django Rest Framework', 'Django' and 'Vue.js'
   
   -📲 I know the 'Kotlin' language at a level that can make an intermediate application with the Android Studio.
   
-  -🌱 I’m currently learning 'Python'
+  -🌱 I’m currently learning 'C++'
   
   -📧 How to reach me: mtlcangokcukur@hotmail.com
   
