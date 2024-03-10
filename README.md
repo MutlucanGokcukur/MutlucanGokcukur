@@ -10,7 +10,7 @@
   
   -📲 I know the 'Kotlin' language at a level that can make an intermediate application with the Android Studio.
   
-  -🌱 I’m currently learning 'C++'
+  -🌱 I’m currently learning 'Java Spring Boot'
   
   -📧 How to reach me: mtlcangokcukur@hotmail.com
   
