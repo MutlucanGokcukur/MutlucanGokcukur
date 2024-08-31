@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mutlucan-gökçukur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mutlucan-gökçukur" height="30" width="40" /></a>
-<a href="https://fb.com/mutlucan-gökçukur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutlucan-gökçukur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mutlucan-g%C3%B6k%C3%A7ukur-12165021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mutlucan-gökçukur" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mutlucan.gokcukur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutlucan-gökçukur" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mutlucan_gokcukur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutlucangokcukur" height="30" width="40" /></a>
 </p>
 
