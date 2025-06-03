@@ -4,13 +4,21 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
-- 🔭 I’m currently working on **React**
+- 🎓 I graduated as the **second highest ranked student** from Kocaeli University’s Information Systems Engineering department in the **2024-2025 academic year**. 🥈
 
-- 🌱 I’m currently learning **C++, React, TypeScript**
+- 💻 I have extensive experience in software development, especially focusing on web, desktop, and embedded systems.
 
-- 👯 I’m looking to collaborate on **with frontend developer for my backend projects**
+- 🛠️ I possess advanced skills in **Python**, **Django**, and **Vue.js**, and have developed multiple full-scale web projects using these technologies.
 
-- 🤝 I’m looking for help with **how to learn react better**
+- 🗄️ I have hands-on experience working with **MSSQL** and **MySQL** database management systems, actively using them in web and desktop projects.
+
+- 🖥️ I have experience working with **Linux** operating systems and am proficient in using virtual machines such as **VirtualBox** and **VMware**.
+
+- 🖥️ I have developed desktop applications using **C++** and **Qt**. Additionally, I have experience designing and developing web interfaces running on embedded systems using **QtWebApp**.
+
+- 📦 I actively contributed to projects involving embedded boards running **Apache** server, ensuring effective integration between hardware and software.
+
+- 👨‍💻 I have intermediate knowledge of **C#**, **Java**, **Node.js**, and **C++**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MutlucanGokcukur?tab=repositories](https://github.com/MutlucanGokcukur?tab=repositories)
 
